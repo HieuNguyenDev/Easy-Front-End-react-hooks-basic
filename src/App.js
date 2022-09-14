@@ -1,9 +1,10 @@
 import "./App.scss";
+import ChangeColor from "./Lessions/UseState/ChangeColor";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello world!</h1>
+      <ChangeColor />
     </div>
   );
 }
